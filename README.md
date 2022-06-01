@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 ![](https://raw.githubusercontent.com/BitLoanLab/bitloan-front-end/main/PIC/Bitloan.jpg)
-=======
->>>>>>> 93f98bcfb43d64459dd69cde5e88515a6a5f5476
 ## Project name
 
 BitLoan
