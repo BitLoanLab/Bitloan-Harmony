@@ -24,15 +24,21 @@ BitLoan uses smart contracts to give users complete control over their funds. As
 ## Submit information
 
 Github:https://github.com/BitLoanLab  
-Contract:https://github.com/BitLoanLab/Bitloan-Oasis-Bloom/tree/main/contracts
+Contract:https://github.com/BitLoanLab/Bitloan-Oasis-Bloom/tree/main/contracts  
 Front end:https://github.com/BitLoanLab/bitloan-front-end  
 PICs:https://github.com/BitLoanLab/bitloan-front-end/tree/main/PIC  
 
 ## Youtube Video
 
- https://youtu.be/TXTucu6lU0U
+https://youtu.be/PrDZH64Wit8
 
 ## Contract deployment information
+
+TestNet 
+
+- URL :https://api.s0.b.hmny.io
+
+Address
 
 - CREATNFT:
 0xF543040E739c4B8bE95D0fdaECaf743Ca5242E90
@@ -45,5 +51,3 @@ PICs:https://github.com/BitLoanLab/bitloan-front-end/tree/main/PIC
 
 - BLTDEPOSIT:
 0xB592D66C011b2ca2E03E0d26f132C38E39F46896
-## TestNet 
-- URL :https://api.s0.b.hmny.io
