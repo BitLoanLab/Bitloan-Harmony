@@ -23,8 +23,8 @@ BitLoan uses smart contracts to give users complete control over their funds. As
 
 ## Submit information
 
-Github:https://github.com/BitLoanLab  
-Contract:https://github.com/BitLoanLab/Bitloan-Oasis-Bloom/tree/main/contracts  
+Github:https://github.com/BitLoanLab/Bitloan-Harmony  
+Contract:https://github.com/BitLoanLab/Bitloan-Harmony/tree/main/contracts  
 Front end:https://github.com/BitLoanLab/bitloan-front-end  
 PICs:https://github.com/BitLoanLab/bitloan-front-end/tree/main/PIC  
 
